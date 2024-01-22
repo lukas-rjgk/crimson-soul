@@ -1,0 +1,11 @@
+{
+  "super_game": {
+    "data_user": {},
+    "pendaftar_ke": 1
+  },
+  "fl_list": [],
+  "co_own": [],
+  "admin": [],
+  "game_data": {},
+  "game_id": 1
+}
