@@ -59,3 +59,4 @@ Kalianlah yang menentukan sendiri apakah kalian ingin menang atau tidak.
 Nb:
   Proyek ini sudah dikembangkan mulai dari Agustus, 2017 sampai dengan saat ini. 
   Setiap minggunya, sistem akan terus di update untuk menjaga stabilitas dan penambahan fitur dalam roleplay.
+  Game ini dibantu dengan bot untuk penyediaan database player dan auto-reply message
